@@ -25,11 +25,11 @@
   last = "log -1 HEAD --stat"
   s    = "status -sb"
 [user]
-	email = git@techsquidtv.com
-	name = KyleTryon
+	email = dev@phantomcloud.io
+	name = phantomcloud-io
 [safe]
 	directory = /tmp/Ansible-Magic-Shellbook
-	directory = /home/techsquidtv/.oh-my-zsh/custom/plugins/forgit
+	directory = /home/ben/.oh-my-zsh/custom/plugins/forgit
 [core]
 	editor = code --wait
 [url "ssh://git@github.com"]
